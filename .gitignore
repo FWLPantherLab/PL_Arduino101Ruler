@@ -1,1 +1,8 @@
 .DS_Store
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+platformio.ini
+.travis.yml
+lib/
