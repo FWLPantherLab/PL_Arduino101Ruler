@@ -4,7 +4,7 @@
 The Panther Lab is a small Makerspace located inside the Northwest Branch of the Fort Worth public Library. The lab is open to the public and free to use on a first come first served basis. The lab has three 3D printers, three iMacs loaded with the full Adobe Creative Suite, several different robot learning platforms, a large electronics closet, and many other resources to make, create, or otherwise bring your imagination to life. Visit the [Panther Lab website](http://fortworthtexas.gov/library/programs/makerspace.html) for more information.
 
 ## Arduino 101 Ruler
-This project is a digital ruler created from the contents of a SparkFun Arduino 101 Inventors kit with the addition of an HC-SR04 ultrasonic sensor and a 1kΩ resistor.
+This project is a digital ruler created from the contents of a [SparkFun Arduino 101 Inventors Kit](https://www.sparkfun.com/products/13844) with the addition of an [HC-SR04 ultrasonic sensor](http://www.taydaelectronics.com/hc-sr04-ultrasonic-range-sensor-html.html) and a 1kΩ resistor.
 #### Required Parts
 * Arduino 101
 * Half-size breadboard
